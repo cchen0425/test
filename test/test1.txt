@@ -9,3 +9,5 @@ step 4
 Test finished.
 
 Extra test
+
+Extra test finished.
