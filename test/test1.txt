@@ -9,5 +9,3 @@ step 4
 Test finished.
 
 Extra test
-
-Delete image.
