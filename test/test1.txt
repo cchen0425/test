@@ -1,8 +1,9 @@
 test information
-测试信息
 
-第二步测试
+
 
 step 3
 
 step 4
+
+Test finished.
